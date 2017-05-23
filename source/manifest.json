@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+
+	"name": "FBInvite plugin",
+	"description": "This extension automatically invite all users to like your page (from dialog)",
+	"version": "1.0",
+
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"tabs", "https://*.facebook.com/*"
+	]
+}
