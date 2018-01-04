@@ -3,7 +3,7 @@
 
 	"name": "FBInvite plugin",
 	"description": "This extension automatically invite all users to like your page (from dialog)",
-	"version": "1.0",
+	"version": "1.1",
 
 	"icons": {
 		"16": "icon16.png",
